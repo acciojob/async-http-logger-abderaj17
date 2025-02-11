@@ -4,3 +4,4 @@ const asyncFun = async ()=>{
 	const data = response.json();
 	console.log(data);
 }
+asyncFun();
